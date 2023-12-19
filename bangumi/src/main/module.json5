@@ -1,0 +1,38 @@
+{
+  "module": {
+    "name": "bangumi",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "BangumiAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "BangumiAbility",
+        "srcEntry": "./ets/bangumiability/BangumiAbility.ets",
+        "description": "$string:BangumiAbility_desc",
+        "icon": "$media:app_icon",
+        "label": "$string:BangumiAbility_label",
+        "startWindowIcon": "$media:app_icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

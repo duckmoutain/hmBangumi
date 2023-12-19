@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "BangumiAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "BangumiAbility_label",
+      "value": "bangumi"
+    }
+  ]
+}
