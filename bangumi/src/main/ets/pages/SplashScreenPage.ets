@@ -95,7 +95,7 @@ struct AdvertiseIcon {
       direction: FlexDirection.Column,
       justifyContent: FlexAlign.End
     }) {
-      Image($r('app.media.ic_advertise'))
+      Image($r('app.media.bg_musume'))
         .objectFit(ImageFit.Contain)
         .width($r('app.float.advertise_button_width'))
         .height($r('app.float.advertise_button_height'))

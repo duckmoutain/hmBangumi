@@ -2,7 +2,63 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "module description"
+      "value": "This module template implements Splash Screen functions."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Hello World"
+    },
+    {
+      "name": "ability_desc",
+      "value": "This ability loads SplashScreenPage."
+    },
+    {
+      "name": "ability_label",
+      "value": "Splash Screen Ability"
+    },
+    {
+      "name": "copyright",
+      "value": "Copyright @2021-2023 duckmoutain"
+    },
+    {
+      "name": "skip",
+      "value": "Skip %d"
+    },
+    {
+      "name": "copyright_title",
+      "value": "Kumiko chu"
+    },
+    {
+      "name": "ResponsiveLayoutItemAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ResponsiveLayoutItemAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "grid_title_label",
+      "value": "title"
+    },
+    {
+      "name": "tab_name",
+      "value": "tab"
+    },
+    {
+      "name": "tab_name_1",
+      "value": "书籍"
+    },
+    {
+      "name": "tab_name_2",
+      "value": "动画"
+    },
+    {
+      "name": "tab_name_3",
+      "value": "音乐"
+    },
+    {
+      "name": "tab_name_4",
+      "value": "游戏"
     },
     {
       "name": "BangumiAbility_desc",

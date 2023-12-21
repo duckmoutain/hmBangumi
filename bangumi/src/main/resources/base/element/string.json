@@ -27,6 +27,46 @@
     {
       "name": "copyright_title",
       "value": "Kumiko chu"
+    },
+    {
+      "name": "ResponsiveLayoutItemAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ResponsiveLayoutItemAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "grid_title_label",
+      "value": "title"
+    },
+    {
+      "name": "tab_name",
+      "value": "tab"
+    },
+    {
+      "name": "tab_name_1",
+      "value": "书籍"
+    },
+    {
+      "name": "tab_name_2",
+      "value": "动画"
+    },
+    {
+      "name": "tab_name_3",
+      "value": "音乐"
+    },
+    {
+      "name": "tab_name_4",
+      "value": "游戏"
+    },
+    {
+      "name": "BangumiAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "BangumiAbility_label",
+      "value": "bangumi"
     }
   ]
 }
