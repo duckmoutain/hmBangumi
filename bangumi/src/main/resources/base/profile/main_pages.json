@@ -2,6 +2,10 @@
   "src": [
     "pages/Index",
     "pages/SplashScreenPage",
-    "pages/Homepage"
+    "pages/Homepage",
+    "aboutComponent/ets/pages/AboutPage",
+    "aboutComponent/ets/pages/AgreementPage",
+    "aboutComponent/ets/pages/PrivacyPage",
+    "aboutComponent/ets/pages/DetailPage"
   ]
 }

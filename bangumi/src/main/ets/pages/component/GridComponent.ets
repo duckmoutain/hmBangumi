@@ -59,6 +59,9 @@ export struct GridComponent {
               .width(CommonConstants.ROW_WIDTH)
             }
           }
+          .onClick(() => {
+            router.pushUrl({ url: "aboutComponent/ets/pages/DetailPage", params: { data: item } })
+          })
         })
       }
       .columnsGap($r('app.float.grid_column_gap'))

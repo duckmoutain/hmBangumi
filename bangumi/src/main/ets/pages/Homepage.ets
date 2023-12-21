@@ -54,5 +54,8 @@ struct Index {
     .width('100%')
     .height('6%')
     .margin({ left: "12vp", top: "12vp", bottom : "12vp"})
+    .onClick(() => {
+      router.pushUrl({ url: "aboutComponent/ets/pages/PrivacyPage" })
+    })
   }
 }
